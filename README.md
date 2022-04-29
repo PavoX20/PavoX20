@@ -16,5 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   Computer Engineer at <a href="https://www.epn.edu.ec">Escuela Politécnica Nacional</a>
+  From Ecuador 🇪🇨
 </p>
   
